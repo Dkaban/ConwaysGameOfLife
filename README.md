@@ -1,5 +1,5 @@
 # Conways Game Of Life
-## Built in Unity3D
+## Built in: Unity3D
 ## Language : C#
 
 ### How-To Run
