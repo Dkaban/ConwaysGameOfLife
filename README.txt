@@ -1,6 +1,8 @@
-** Conways Game Of Life Re-created in Unity using C# **
+# Conways Game Of Life
+## Built in Unity3D
+## Language : C#
 
-To Run The Game
+### How-To Run
 - Open the Scene "MainScene" within the Scenes folder.
 - Press Play
 - Press S to stop the simulation
